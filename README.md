@@ -36,7 +36,7 @@
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 
-[![GitHub its-leo-bitch](https://img.shields.io/github/followers/its-leo-bitch?label=follow&style=social)](https://github.com/its-leo-bitch)
+[![Instagram its-leo-bitch](https://img.shields.io/Instagram/followers/leo_parmigiana?label=follow&style=social)](https://instagram/leo_parmigiana)
 
 
 **Languages and Tools:**  
