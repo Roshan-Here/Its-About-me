@@ -1,4 +1,4 @@
-## Hola, I'm [Pawan Kumar!](https://pawan.live) 👋
+## Hola, I'm [Leo!](https://leo.live) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=It's-leo-bitch&label=Views&color=blue&style=plastic" alt="its-leo-bitch" /> </p>
 
@@ -50,18 +50,18 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-<a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=dark&hide_langs_below=1" />
+<a href="https://github.com/its-leo-bitch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-leo-bitch&theme=dark&hide_langs_below=1" />
 </a>
-<a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
+<a href="https://github.com/its-leo-bitch">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=its-leo-bitch&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
 </a>
-<a href="https://github.com/iampawan/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=dark" />
+<a href="https://github.com/its-leo-bitch/FlutterExampleApps">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-leo-bitch&repo=FlutterExampleApps&theme=dark" />
 
 </a>
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=dark" />
+<a href="https://github.com/its-leo-bitch/VelocityX">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-leo-bitch&repo=VelocityX&theme=dark" />
 </a>
 
 <div align="center">
