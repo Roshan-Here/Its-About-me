@@ -36,8 +36,6 @@
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 
-[![Instagram its-leo-bitch]](https://www.instagram.com/leo_parmigiana)
-
 
 **Languages and Tools:**  
 
