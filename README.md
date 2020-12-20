@@ -1,4 +1,4 @@
-## Hola, I'm [Leo!](https://leo.live) 👋
+## Hola, I'm [Leo!](https://t.me/betalinktobot) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=It's-leo-bitch&label=Views&color=blue&style=plastic" alt="its-leo-bitch" /> </p>
 
