@@ -54,13 +54,7 @@
 <a href="https://github.com/its-leo-bitch">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=its-leo-bitch&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
 </a>
-<a href="https://github.com/its-leo-bitch/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-leo-bitch&repo=FlutterExampleApps&theme=dark" />
 
-</a>
-<a href="https://github.com/its-leo-bitch/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-leo-bitch&repo=VelocityX&theme=dark" />
-</a>
 
 <div align="center">
 
