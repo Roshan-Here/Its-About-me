@@ -26,7 +26,7 @@
 
 
 
-- 🔭 I’m currently working on [MovieXtreet](https://t.me/MovieXtreet).
+- 🔭 I’m currently working on [MovieXtreet](https://t.me/MovieXtreet)..Currently closed.
 - 🌱 I’m currently learning Swift.
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/leo_parmigiana).
 - 🤔 I’m looking for help with VelocityX documentation.
