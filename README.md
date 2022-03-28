@@ -1,11 +1,9 @@
-## Bitch, it's [Leo!](https://t.me/betalinktobot) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## BRAH, it's [Leo!](https://t.me/WONKRU_HERE) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-
-
-
+## DONT Follow Me on Social Platforms I'm Not Active 
 
 </a>
-<a href="https://github.com/its-leo-bitch">
+<a href="https://github.com/Roshan-Here">
   <img align="left" alt="leo's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/WONKRU_HERE">
@@ -24,16 +22,9 @@
 <br/>
 <br/>
 
+- WILL UPDATE ALL MA REPOSITORIES AFTER APRIL 2022 
+- NEW PROJECTS ARE COMING
 
-
-- 🔭 I’m currently working on [MovieXtreet](https://t.me/MovieXtreet)..Currently closed.
-- 🌱 I’m currently learning Swift.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/leo_parmigiana).
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Telegram - @its-leo-bitch](https://t.me/WONKRU_HERE) , [Youtube - @Leo](https://youtube.com/leo_Parmigiana_here)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 
 
@@ -46,17 +37,17 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-<a href="https://github.com/its-leo-bitch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-leo-bitch&theme=dark&hide_langs_below=1" />
+<a href="https://github.com/Roshan_Here">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Here&theme=dark&hide_langs_below=1" />
 </a>
-<a href="https://github.com/its-leo-bitch">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=its-leo-bitch&show_icons=true&theme=dark&line_height=27" alt="leo's github stats"/>
+<a href="https://github.com/Roshan-Here">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Roshan-Here&show_icons=true&theme=dark&line_height=27" alt="leo's github stats"/>
 </a>
 
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Always Try to Smile 
 
 </div>
 
